@@ -1,7 +1,7 @@
 # http://www.sqlite.org/download.html
 
-SQLITE_VERSION  ?= 3160100
-SQLITE_YEAR     ?= 2017
+SQLITE_VERSION  ?= 3250300
+SQLITE_YEAR     ?= 2018
 
 SQLITE_BASENAME := sqlite-amalgamation-$(SQLITE_VERSION)
 # Complete URL sample: http://www.sqlite.org/2017/sqlite-amalgamation-3160100.zip
